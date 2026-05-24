@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BTC价格监控系统</string>
+    <string name="widget_description">Display cryptocurrency prices with chart</string>
+</resources>
